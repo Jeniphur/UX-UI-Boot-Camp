@@ -1,0 +1,164 @@
+/* Header Styles */
+.header{
+   height: 250px;
+   max-height: 500px;
+   background-image: url(../images/upsBackground.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: bottom;
+}
+
+#pagetopic{
+   text-align: center;
+}
+
+.sectionhead{
+   border-bottom: 8px solid #DDDDDD;
+}
+
+/* Primary Color */
+.colorpalette{
+
+}
+
+.colorcontainer{
+   display: inline-block;
+   margin: 15px;
+}
+
+.swatch{
+   height: 200px;
+   width: 170px;
+   border: 1px solid black;
+}
+
+.hexcode{
+   padding: 15px;
+   text-align: center;
+   border: 1px solid black;
+   border-top: none;
+   border-bottom-left-radius: 7px;
+   border-bottom-right-radius: 7px;
+}
+
+.darkblue{
+   background-color: #333366;
+}
+
+.lightblue{
+   background-color: #12A0F6;
+}
+
+.darkgrey{
+   background-color: #545454;
+}
+
+.lightgrey{
+   background-color: #E3E3E3;
+}
+
+.white{
+   background-color: #FFFFFF;
+}
+
+.red{
+   background-color: #F84848;
+}
+
+.orange{
+   background-color: #FC7705;
+}
+
+.lightgreen{
+   background-color: #8ABE48;
+}
+
+/* Typography CSS */
+.typography{
+
+}
+
+.type_container{
+   display: inline-block;
+   margin: 20px;
+}
+
+.light{
+
+}
+
+.regular{
+
+}
+
+.bold{
+
+}
+
+/* UI Elements */
+.uielements{
+
+}
+
+.buttoncontain{
+
+}
+
+.button{
+   display: inline-block;
+   padding: 15px;
+   margin: 15px;
+   width: 150px;
+   text-align: center;
+   color: white;
+   outline: 1px solid red;
+}
+
+.primary{
+   Background-color: #2B459A;
+}
+
+.primaryActive{
+   Background-color: #3A66B7;
+}
+
+.success{
+   Background-color: #8ABE48;
+}
+
+.successActive{
+   Background-color: #668C35;
+}
+
+.danger{
+   Background-color: #F84848;
+}
+
+.dangerActive{
+   Background-color: #AD484848;
+}
+
+.warning{
+   Background-color: #FC7705;
+}
+
+.warningActive{
+   Background-color: #BA7A43;
+}
+
+.info{
+   Background-color: #0099FA;
+}
+
+.infoActive{
+   Background-color: #4386BA;
+}
+
+
+/* Imagery */
+
+
+.imagery{
+
+}
+
